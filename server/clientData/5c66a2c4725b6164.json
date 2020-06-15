@@ -1,0 +1,3001 @@
+{
+  "clientID": "5c66a2c4725b6164",
+  "CommandQue": [],
+  "SMSData": [
+    {
+      "body": "Si no puedes navegar o eliminaste las notificaciones de configuracion, envia gratis un SMS al 777 con la letra A y te llegaran nuevamente.",
+      "date": "1591539365161",
+      "read": "0",
+      "type": "1",
+      "address": "777",
+      "hash": "556c1bf4282c97a50c0654d955a576ed"
+    },
+    {
+      "body": "Hola! Insertaste tu chip en un nuevo equipo. Para que funcionen tus Megas, Revisa y Acepta las configuraciones que te enviaremos.",
+      "date": "1591539358488",
+      "read": "0",
+      "type": "1",
+      "address": "777",
+      "hash": "5e9a0e103a5807fef63924af20033713"
+    },
+    {
+      "body": "Juan, actualiza hoy tu app Banca Movil BCP en tu celular para seguir usandola sin problemas. Hazlo en App Store, Play Store o App Gallery Huawei. Contigo BCP",
+      "date": "1591482128748",
+      "read": "0",
+      "type": "1",
+      "address": "88800",
+      "hash": "3705f5b6cb523ad9d9fdcdadbe6d34e7"
+    },
+    {
+      "body": "Eliot, Diamian Florentino Cacha Valentin publicó una actualización: https://fb.com/l/2zsAUNPtkGYwkTw",
+      "date": "1591312101251",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "e24e77cdd3eccabf37204df9b972ea23"
+    },
+    {
+      "body": "Eliot, tienes 5 mensajes y 22 notificaciones nuevas en Facebook: https://fb.com/l/21YqhBwQV7wFXsO",
+      "date": "1591147064484",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "475856525d47d99d4ee0c8b3224f7062"
+    },
+    {
+      "body": "Eliot, des ale hoy un feliz cumplea}os a Lutfor Lutfor: https://fb.com/l/1Oc0pQhEQRu4jjY",
+      "date": "1591026132753",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "2a83ba50fd6194fbdb6dc648c6a6e65f"
+    },
+    {
+      "body": "Eliot, Alan Collazos Bobadilla compartió una foto: https://fb.com/l/1L1YmPqFbMVDkAp",
+      "date": "1590871033277",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "f099522ac88abc8eb030e783dbd9e78c"
+    },
+    {
+      "body": "Domina la tecnologia y accede a 100% de DSCTO EN TU MATRICULA para estudiar en CIBERTEC. Inscribete: https://bit.ly/3gBjt6I",
+      "date": "1590781267409",
+      "read": "0",
+      "type": "1",
+      "address": "85999",
+      "hash": "532abdadc8a514c4ecb6cd0d57450492"
+    },
+    {
+      "body": "Domina la tecnologia y accede a 100% de DSCTO EN TU MATRICULA para estudiar en CIBERTEC. Inscribete: https://bit.ly/3dsbDKR",
+      "date": "1590781229050",
+      "read": "0",
+      "type": "1",
+      "address": "85999",
+      "hash": "056b1635f9f9329ff6ff4ab72f41ca95"
+    },
+    {
+      "body": "Domina la tecnologia y asegura tu futuro estudiando en Cibertec. Tu decides cuando pagas. Conversa con tu asesor aqui: http://ma.sv/5Wagt",
+      "date": "1590713574526",
+      "read": "0",
+      "type": "1",
+      "address": "85999",
+      "hash": "3f9847f9551300768913dc5d333ba7ec"
+    },
+    {
+      "body": "Tienes una nueva sugerencia de amistad en Facebook de Lovely Malik: https://fb.com/l/1FsZuPst6m36hQn",
+      "date": "1590710174525",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "0598d7ac9fb93c1b4f60f89423124395"
+    },
+    {
+      "body": "Recarga, acepta y por S/5 llevate INSTAGRAM FULL + 600MB + Apps x 5 dias + 30 DIAS de WhatsApp+FB Messenger. www.entel.pe/recargas",
+      "date": "1590620105702",
+      "read": "0",
+      "type": "1",
+      "address": "Entel Power",
+      "hash": "c25909190bdc98e1d3a16e82ae629f22"
+    },
+    {
+      "body": "Tienes una nueva sugerencia de amistad en Facebook de Kevin Adrian: https://fb.com/l/bw3HSTNQkpoVbM",
+      "date": "1590543405626",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "b2933ed75e8bced1b6bc02e7c4022c59"
+    },
+    {
+      "body": "Si sufres de violencia ingresa a http://www.mimp.gob.pe/chat100 El Ministerio de la Mujer y Poblaciones Vulnerables esta contigo",
+      "date": "1590476042402",
+      "read": "0",
+      "type": "1",
+      "address": "MIMP",
+      "hash": "6b15d9c82a791fe2078d5ab67695ed99"
+    },
+    {
+      "body": "Sin saldo y con una emergencia? Marca *144# opc5 y te prestamos S/1 para muchas cosas, incluso comprar bolsas! Restricc:  www.entel.pe/presta",
+      "date": "1590445214745",
+      "read": "0",
+      "type": "1",
+      "address": "Entel Power",
+      "hash": "fdf238723dc90cf3892ef0d41d4f6c88"
+    },
+    {
+      "body": "En Cibertec estamos buscando talentos que busquen dominar la tecnologia y ganar los mejores sueldos. Te atreves? Registrate:  https://bit.ly/2LWXIjB",
+      "date": "1590442018856",
+      "read": "0",
+      "type": "1",
+      "address": "85999",
+      "hash": "90650f0f89fa1294da6fde9bc2a6aad1"
+    },
+    {
+      "body": "Domina la tecnologia y accede a 100% de DSCTO EN TU MATRICULA para estudiar en CIBERTEC. Inscribete:  https://bit.ly/3euBKAX",
+      "date": "1590441889817",
+      "read": "0",
+      "type": "1",
+      "address": "85999",
+      "hash": "1d740aad977dd527cda9fe9bc038e2c8"
+    },
+    {
+      "body": "ᎯᏒᎽᎯᏁ ᎯᏒᎽᎯᏁ comentó una foto en la que se te etiquetó: https://fb.me/1M6gyGx0YGD0H0s",
+      "date": "1590425998183",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "6ef7743de650181648dbec7c1a0a0801"
+    },
+    {
+      "body": "DE: Amazon\n\nInicio de sesion detectado de LMA, PE. Ver detalles:\n\nhttps://amazon.com/a/c/r?k=4dd1f7168465483cad3624f039c6c614-a405",
+      "date": "1590417522592",
+      "read": "1",
+      "type": "1",
+      "address": "76555",
+      "hash": "da067926457ebd0a67fea200b7b23f75"
+    },
+    {
+      "body": "608032 es tu codigo de verificacion de Amazon",
+      "date": "1590417501006",
+      "read": "1",
+      "type": "1",
+      "address": "76555",
+      "hash": "656addc1230149ecdad84f6efdf73f19"
+    },
+    {
+      "body": "MD Tanveer Khan comentó una foto en la que se te etiquetó: https://fb.me/1Kz2KEq90u0ir2y",
+      "date": "1590252820959",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "8d6521cba0023226d3fd33f84db78663"
+    },
+    {
+      "body": "Tera Baap Aya comentó una foto en la que se te etiquetó: https://fb.me/bbCK8PrrbOC7iQ",
+      "date": "1590163284563",
+      "read": "0",
+      "type": "1",
+      "address": "32665",
+      "hash": "4e00393a7ea8ef5306013295b402317b"
+    },
+    {
+      "body": "MD Tanveer Khan comentó una foto en la que se te etiquetó: https://fb.me/1QS43l3TwG69GYW",
+      "date": "1590016217382",
+      "read": "1",
+      "type": "1",
+      "address": "32665",
+      "hash": "8c8d3256317dfa7a4c71e23c75d04d2d"
+    },
+    {
+      "body": "Si sabes de alguien que esta sufriendo violencia, mantente en contacto a traves de medios digitales. Tambien llama gratis a la linea 100",
+      "date": "1589843988260",
+      "read": "0",
+      "type": "1",
+      "address": "MIMP",
+      "hash": "014e68209062062d19857a5b5d5776e3"
+    },
+    {
+      "body": "PayPal: su codigo de seguridad es 520818. Vence en 10 minutos. No comparta este codigo con nadie. PayPal nunca le llamara para solicitarle esta informacion.",
+      "date": "1589833036518",
+      "read": "0",
+      "type": "1",
+      "address": "PayPal",
+      "hash": "39377bd3f3b22fb37203aee41e96367f"
+    },
+    {
+      "body": "PayPal: su codigo de seguridad es 201673. Vence en 10 minutos. No comparta este codigo con nadie. PayPal nunca le llamara para solicitarle esta informacion.",
+      "date": "1589832984646",
+      "read": "0",
+      "type": "1",
+      "address": "PayPal",
+      "hash": "abeff3c1610b39347d3fe2a95cbbfd2f"
+    },
+    {
+      "body": "PayPal: su codigo de seguridad es 426005. Vence en 10 minutos. No comparta este codigo con nadie. PayPal nunca le llamara para solicitarle esta informacion.",
+      "date": "1589832690601",
+      "read": "0",
+      "type": "1",
+      "address": "PayPal",
+      "hash": "5d21f5e3563a02fa788cd12364ebf365"
+    },
+    {
+      "body": "PayPal: su codigo de seguridad es 273010. Vence en 10 minutos. No comparta este codigo con nadie. PayPal nunca le llamara para solicitarle esta informacion.",
+      "date": "1589832570784",
+      "read": "0",
+      "type": "1",
+      "address": "PayPal",
+      "hash": "38ba0273d25c8e8c19d88291ed174551"
+    },
+    {
+      "body": "43329 es tu codigo de Validacion para afiliarte a Banca Movil BCP. Para cualquier consulta, comunicate con nuestra Banca por Telefono 01311-9898.",
+      "date": "1589832229435",
+      "read": "0",
+      "type": "1",
+      "address": "+227",
+      "hash": "88bf412e71be57d2dec4592817b309a3"
+    },
+    {
+      "body": "PayPal: su codigo de seguridad es 534616. Vence en 10 minutos. No comparta este codigo con nadie. PayPal nunca le llamara para solicitarle esta informacion.",
+      "date": "1589829121335",
+      "read": "1",
+      "type": "1",
+      "address": "PayPal",
+      "hash": "fec23e5901a0fe4183ede6d056eb8c59"
+    },
+    {
+      "body": "<#> PayPal: Su codigo de seguridad es 509635. Su codigo vence en 10 minutos. Por favor no responda. 3/3p3o0TedB",
+      "date": "1589828970667",
+      "read": "1",
+      "type": "1",
+      "address": "PayPal",
+      "hash": "49492b2064415886aa7b3b2e11a4e5db"
+    },
+    {
+      "body": "71283 es el codigo de confirmacion de Facebook de Eliot",
+      "date": "1589827823160",
+      "read": "0",
+      "type": "1",
+      "address": "55622",
+      "hash": "ee9c45d237fbce965524b87dca6b8ce3"
+    },
+    {
+      "body": "Si eres victima de violencia o conoces de alguien que lo sea, comunicate con la Comisaria mas cercana o llama gratis a la Linea 100.",
+      "date": "1589507440544",
+      "read": "0",
+      "type": "1",
+      "address": "MIMP",
+      "hash": "1afa6c46c6246f28a42b2133423421bb"
+    },
+    {
+      "body": "Hola! Te informamos que el numero 51902037033 no tiene saldo para llamar y quiere comunicarse contigo",
+      "date": "1589376581774",
+      "read": "0",
+      "type": "1",
+      "address": "Entel",
+      "hash": "cf79aad23977575eade69cb7d23ee477"
+    },
+    {
+      "body": "No dejes de saludar a MAMA por su dia! Recarga HOY desde S/10 y obten el DOBLE de MEGAS. Fin: 10/05. Info: www.entel.pe/dmm",
+      "date": "1589130339603",
+      "read": "0",
+      "type": "1",
+      "address": "Entel Power",
+      "hash": "06ac2141f43030343ae383c1c9a5d27d"
+    },
+    {
+      "body": "Hola! Te informamos que tu saldo de recarga se ha terminado. Recuerda que puedes recargar o comprar mas minutos y megas en http://mientel.pe.",
+      "date": "1588919376188",
+      "read": "0",
+      "type": "1",
+      "address": "Entel",
+      "hash": "8abfc44eac9532d6975be7713e4876fc"
+    },
+    {
+      "body": "Telegram code 52402",
+      "date": "1588682685359",
+      "read": "0",
+      "type": "1",
+      "address": "Telegram",
+      "hash": "6d83d0ea28b1ba8546e14a1d9dc62fab"
+    },
+    {
+      "body": "Telegram code 84647",
+      "date": "1588375238869",
+      "read": "0",
+      "type": "1",
+      "address": "Telegram",
+      "hash": "6c6e51a4f72f0b469368c96cdbdb43a5"
+    },
+    {
+      "body": "Disfruta de tus videos preferidos! 1hr de YouTube x 2dias (360p) + los beneficios de siempre, recargando S/5. Info: www.entel.pe/yout",
+      "date": "1588200396323",
+      "read": "0",
+      "type": "1",
+      "address": "Entel Power",
+      "hash": "122b70edc271c4c0fddcdbd059b27aee"
+    },
+    {
+      "body": "<#> Codigo de WhatsApp: 575-808\n\nO sigue este enlace para verificar tu numero: v.whatsapp.com/575808\n\nNo compartas este codigo con nadie.\n4sgLq1p5sV6",
+      "date": "1587936506336",
+      "read": "0",
+      "type": "1",
+      "address": "78900",
+      "hash": "77d35f4bf805d5d2b7d657d770a55ca0"
+    }
+  ],
+  "CallData": [
+    {
+      "phoneNo": "+40356580846",
+      "duration": "28",
+      "date": "1591405056669",
+      "type": 1,
+      "hash": "6aa34c86b3544018dc4347fbb7adc813"
+    },
+    {
+      "phoneNo": "994001804",
+      "duration": "122",
+      "date": "1591294103465",
+      "type": 1,
+      "hash": "e257234da9a829d30a53142a95d2e530"
+    },
+    {
+      "phoneNo": "924133729",
+      "duration": "0",
+      "date": "1591104745746",
+      "type": 3,
+      "hash": "eb4e2885d55458243fdeef0b700bbe50"
+    },
+    {
+      "phoneNo": "981281981",
+      "name": "Gordo",
+      "duration": "201",
+      "date": "1590682345852",
+      "type": 1,
+      "hash": "93266ae1c4e31c0319b25bbe1e5bd944"
+    },
+    {
+      "phoneNo": "924133729",
+      "duration": "8",
+      "date": "1590675703467",
+      "type": 1,
+      "hash": "5b47719c7aa1793b00369a442726ff01"
+    },
+    {
+      "phoneNo": "924133729",
+      "duration": "0",
+      "date": "1589896764109",
+      "type": 3,
+      "hash": "85bf6d704c999308018ce7f8a0c6015e"
+    },
+    {
+      "phoneNo": "992343875",
+      "duration": "54",
+      "date": "1589310834295",
+      "type": 1,
+      "hash": "9a2acc511b7f3e532da68db632e037b9"
+    },
+    {
+      "phoneNo": "977394388",
+      "name": "Mamá",
+      "duration": "0",
+      "date": "1588800507602",
+      "type": 3,
+      "hash": "b724708fc6aff76943ce725fba644cd1"
+    },
+    {
+      "phoneNo": "977394388",
+      "name": "Mamá",
+      "duration": "0",
+      "date": "1588800464050",
+      "type": 3,
+      "hash": "9bff39378ef082d438b5cb115ccb6ba8"
+    },
+    {
+      "phoneNo": "928135194",
+      "name": "Yersi ADM",
+      "duration": "803",
+      "date": "1588724783987",
+      "type": 1,
+      "hash": "67e290731fa5265120ee70c1f9055912"
+    },
+    {
+      "phoneNo": "928135194",
+      "name": "Yersi ADM",
+      "duration": "0",
+      "date": "1588722901123",
+      "type": 3,
+      "hash": "7917d89428d8e71adc3e5eeab056da6e"
+    },
+    {
+      "phoneNo": "977394388",
+      "name": "Mamá",
+      "duration": "23",
+      "date": "1588427396635",
+      "type": 1,
+      "hash": "ca8bc0c0cd2aabd1062c685f1307d6a5"
+    },
+    {
+      "phoneNo": "924133729",
+      "duration": "93",
+      "date": "1588420168336",
+      "type": 1,
+      "hash": "eb4c1ab748a385e3775bb67ec584b94c"
+    },
+    {
+      "phoneNo": "924133729",
+      "duration": "24",
+      "date": "1588346223588",
+      "type": 1,
+      "hash": "615a64080adfc4a44c9c51263f9f7e14"
+    },
+    {
+      "phoneNo": "015190700",
+      "duration": "37",
+      "date": "1588175813773",
+      "type": 1,
+      "hash": "379f7ed13d154a550730e478f0609260"
+    },
+    {
+      "phoneNo": "+51912344484",
+      "name": "Amor",
+      "duration": "4",
+      "date": "1588032366820",
+      "type": 2,
+      "hash": "5d95e7c002dfdefe114e59bf6a56e1ed"
+    },
+    {
+      "phoneNo": "+51977394388",
+      "name": "Mamá",
+      "duration": "0",
+      "date": "1588019428160",
+      "type": 2,
+      "hash": "d79b7c36135335742dfaf316bab28cc0"
+    },
+    {
+      "phoneNo": "+51977394388",
+      "name": "Mamá",
+      "duration": "0",
+      "date": "1588019206683",
+      "type": 2,
+      "hash": "25160326c96e0e5636a6b494748f076b"
+    },
+    {
+      "phoneNo": "+51977394388",
+      "name": "Mamá",
+      "duration": "0",
+      "date": "1588019178264",
+      "type": 2,
+      "hash": "c8ffeca4d32e9f3ac701dea098c077bd"
+    },
+    {
+      "phoneNo": "+51977394388",
+      "name": "Mamá",
+      "duration": "0",
+      "date": "1588019136946",
+      "type": 2,
+      "hash": "9616c1883160ae113ab3ec618a7730c3"
+    }
+  ],
+  "contacts": [
+    {
+      "phoneNo": "973745061",
+      "name": "Aldair",
+      "hash": "b6b0c53d71cdf07f05587b6b423f2810"
+    },
+    {
+      "phoneNo": "+51912344484",
+      "name": "Amor",
+      "hash": "452c7c011815063c9922c4ed59960f45"
+    },
+    {
+      "phoneNo": "934768624",
+      "name": "Begnir",
+      "hash": "8d8bf06e7e08a005868dbde5f5661d9d"
+    },
+    {
+      "phoneNo": "987443661",
+      "name": "Chica Entel",
+      "hash": "86cc6681e215021f0deeb899f6c2f3d1"
+    },
+    {
+      "phoneNo": "+51977881942",
+      "name": "David Mocco",
+      "hash": "e8988e465ec0c36f8d16d56af2731a83"
+    },
+    {
+      "phoneNo": "981002000",
+      "name": "Entel Whatsapp",
+      "hash": "de6d38526dd563ae9479814acaf14a20"
+    },
+    {
+      "phoneNo": "+51981281981",
+      "name": "Gordo",
+      "hash": "bfd87a5369f170235241bfcde05e6aef"
+    },
+    {
+      "phoneNo": "+18099108525",
+      "name": "Lamocha15",
+      "hash": "ee9b996d2428d742613a93b48ef21f75"
+    },
+    {
+      "phoneNo": "+51977394388",
+      "name": "Mamá",
+      "hash": "d10150a1253ffa40d06b9924f4ebd187"
+    },
+    {
+      "phoneNo": "+51946276228",
+      "name": "Marty",
+      "hash": "bf991ff7e2e4459deb1b06b6072e731b"
+    },
+    {
+      "phoneNo": "922928072",
+      "name": "Mauro",
+      "hash": "bfaf474e3c85afdcad86d263c8a42dfc"
+    },
+    {
+      "phoneNo": "+447754935515",
+      "name": "Mr. Mogz",
+      "hash": "968da00854882b9058cc37457a5bbbe4"
+    },
+    {
+      "phoneNo": "931183919",
+      "name": "Patrick",
+      "hash": "e67e1481c2851a90cd850a09e2bc0b12"
+    },
+    {
+      "phoneNo": "983217182",
+      "name": "Pelon",
+      "hash": "5942815bb6a63b6dfa379d9612969696"
+    },
+    {
+      "phoneNo": "+5217651006535",
+      "name": "Shaw",
+      "hash": "a2873ec129c36cd962700f213e3d01de"
+    },
+    {
+      "phoneNo": "+5217651024583",
+      "name": "Shaw",
+      "hash": "6cbf07e77d0c334ebdbf26c032857cf7"
+    },
+    {
+      "phoneNo": "936549652",
+      "name": "X",
+      "hash": "13166b3cd981a7eb266768ed0ba5b9b0"
+    },
+    {
+      "phoneNo": "928135194",
+      "name": "Yersi ADM",
+      "hash": "1ae28b4cff41443dd506d726d6d9dd4a"
+    }
+  ],
+  "wifiNow": [
+    {
+      "BSSID": "c4:86:e9:47:62:7a",
+      "SSID": "Internet",
+      "firstSeen": "2020-06-10T19:30:59.582Z",
+      "lastSeen": "2020-06-10T19:30:59.582Z"
+    },
+    {
+      "BSSID": "fc:5a:1d:77:f1:58",
+      "SSID": "MOVISTAR_F150",
+      "firstSeen": "2020-06-10T19:30:59.584Z",
+      "lastSeen": "2020-06-10T19:30:59.584Z"
+    },
+    {
+      "BSSID": "ec:08:6b:45:f0:c6",
+      "SSID": "marilu",
+      "firstSeen": "2020-06-10T19:30:59.586Z",
+      "lastSeen": "2020-06-10T19:30:59.586Z"
+    },
+    {
+      "BSSID": "fc:5a:1d:48:df:a8",
+      "SSID": "MOVISTAR_DFA0",
+      "firstSeen": "2020-06-10T19:30:59.587Z",
+      "lastSeen": "2020-06-10T19:30:59.587Z"
+    },
+    {
+      "BSSID": "18:d6:c7:60:df:60",
+      "SSID": "Josuel",
+      "firstSeen": "2020-06-10T19:30:59.588Z",
+      "lastSeen": "2020-06-10T19:30:59.588Z"
+    },
+    {
+      "BSSID": "f8:61:80:9b:8b:4b",
+      "SSID": "PRUDENCIA",
+      "firstSeen": "2020-06-10T19:30:59.589Z",
+      "lastSeen": "2020-06-10T19:30:59.589Z"
+    }
+  ],
+  "wifiLog": [
+    {
+      "BSSID": "c4:86:e9:47:62:7a",
+      "SSID": "Internet",
+      "firstSeen": "2020-06-10T19:30:59.582Z",
+      "lastSeen": "2020-06-10T19:30:59.582Z"
+    },
+    {
+      "BSSID": "fc:5a:1d:77:f1:58",
+      "SSID": "MOVISTAR_F150",
+      "firstSeen": "2020-06-10T19:30:59.584Z",
+      "lastSeen": "2020-06-10T19:30:59.584Z"
+    },
+    {
+      "BSSID": "ec:08:6b:45:f0:c6",
+      "SSID": "marilu",
+      "firstSeen": "2020-06-10T19:30:59.586Z",
+      "lastSeen": "2020-06-10T19:30:59.586Z"
+    },
+    {
+      "BSSID": "fc:5a:1d:48:df:a8",
+      "SSID": "MOVISTAR_DFA0",
+      "firstSeen": "2020-06-10T19:30:59.587Z",
+      "lastSeen": "2020-06-10T19:30:59.587Z"
+    },
+    {
+      "BSSID": "18:d6:c7:60:df:60",
+      "SSID": "Josuel",
+      "firstSeen": "2020-06-10T19:30:59.588Z",
+      "lastSeen": "2020-06-10T19:30:59.588Z"
+    },
+    {
+      "BSSID": "f8:61:80:9b:8b:4b",
+      "SSID": "PRUDENCIA",
+      "firstSeen": "2020-06-10T19:30:59.589Z",
+      "lastSeen": "2020-06-10T19:30:59.589Z"
+    }
+  ],
+  "clipboardLog": [],
+  "notificationLog": [],
+  "enabledPermissions": [],
+  "apps": [
+    {
+      "appName": "Filter Provider",
+      "packageName": "com.samsung.android.provider.filterprovider",
+      "versionName": "5.0.07",
+      "versionCode": 500700000
+    },
+    {
+      "appName": "Automation Test",
+      "packageName": "com.sec.android.app.DataCreate",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.cts.priv.ctsshim",
+      "packageName": "com.android.cts.priv.ctsshim",
+      "versionName": "9-5374186",
+      "versionCode": 28
+    },
+    {
+      "appName": "Widget Galaxy Essentials",
+      "packageName": "com.sec.android.widgetapp.samsungapps",
+      "versionName": "1.7.13.2",
+      "versionCode": 171302400
+    },
+    {
+      "appName": "com.samsung.android.smartswitchassistant",
+      "packageName": "com.samsung.android.smartswitchassistant",
+      "versionName": "1.1.06",
+      "versionCode": 110600000
+    },
+    {
+      "appName": "NSDSWebApp",
+      "packageName": "com.sec.vsim.ericssonnsds.webapp",
+      "versionName": "1.3.02",
+      "versionCode": 130200000
+    },
+    {
+      "appName": "SetupWizardLegalProvider",
+      "packageName": "com.sec.android.app.setupwizardlegalprovider",
+      "versionName": "1.0.22.0",
+      "versionCode": 102200000
+    },
+    {
+      "appName": "YouTube",
+      "packageName": "com.google.android.youtube",
+      "versionName": "15.22.33",
+      "versionCode": 1512951232
+    },
+    {
+      "appName": "Buscar",
+      "packageName": "com.samsung.android.app.galaxyfinder",
+      "versionName": "9.3.35",
+      "versionCode": 933500000
+    },
+    {
+      "appName": "Samsung Location SDK",
+      "packageName": "com.sec.location.nsflp2",
+      "versionName": "5.0.20",
+      "versionCode": 502000000
+    },
+    {
+      "appName": "Galaxy Themes",
+      "packageName": "com.samsung.android.themestore",
+      "versionName": "5.1.16.409",
+      "versionCode": 511600409
+    },
+    {
+      "appName": "com.sec.android.app.chromecustomizations",
+      "packageName": "com.sec.android.app.chromecustomizations",
+      "versionName": "3.0.25",
+      "versionCode": 302500000
+    },
+    {
+      "appName": "Recorte de la esquina",
+      "packageName": "com.android.internal.display.cutout.emulation.corner",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Android Services Library",
+      "packageName": "com.google.android.ext.services",
+      "versionName": "q_pr1-release_aml_291900801",
+      "versionCode": 291900801
+    },
+    {
+      "appName": "Recorte doble",
+      "packageName": "com.android.internal.display.cutout.emulation.double",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Dialer Storage",
+      "packageName": "com.android.providers.telephony",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "DRParser Mode",
+      "packageName": "com.sec.android.app.parser",
+      "versionName": "11.0.00.1",
+      "versionCode": 1100000001
+    },
+    {
+      "appName": "Dynamic System Updates",
+      "packageName": "com.android.dynsystem",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.samsung.internal.systemui.navbar.gestural_no_hint_wide_back",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Google",
+      "packageName": "com.google.android.googlequicksearchbox",
+      "versionName": "11.13.5.21.arm64",
+      "versionCode": 301090449
+    },
+    {
+      "appName": "Calendario",
+      "packageName": "com.samsung.android.calendar",
+      "versionName": "11.0.00.56",
+      "versionCode": 1100000056
+    },
+    {
+      "appName": "Actualizador de zona horaria",
+      "packageName": "com.samsung.android.timezone.updater",
+      "versionName": "1.0.00.00000",
+      "versionCode": 100000000
+    },
+    {
+      "appName": "Almacenamiento de calendario",
+      "packageName": "com.android.providers.calendar",
+      "versionName": "11.0.00.9",
+      "versionCode": 1100000009
+    },
+    {
+      "appName": "Samsung account",
+      "packageName": "com.osp.app.signin",
+      "versionName": "11.2.00.3",
+      "versionCode": 1120000003
+    },
+    {
+      "appName": "ClipboardSaveService",
+      "packageName": "com.samsung.clipboardsaveservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "TetheringAutomation",
+      "packageName": "com.sec.automation",
+      "versionName": "2.0.1",
+      "versionCode": 2
+    },
+    {
+      "appName": "Almacenamiento de contenido multimedia",
+      "packageName": "com.android.providers.media",
+      "versionName": "10",
+      "versionCode": 1028
+    },
+    {
+      "appName": "Novedades",
+      "packageName": "com.samsung.android.app.social",
+      "versionName": "11.0.00.27",
+      "versionCode": 1100027000
+    },
+    {
+      "appName": "Square",
+      "packageName": "com.android.theme.icon.square",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Google One Time Init",
+      "packageName": "com.google.android.onetimeinitializer",
+      "versionName": "10-5771379",
+      "versionCode": 29
+    },
+    {
+      "appName": "Android Shared Library",
+      "packageName": "com.google.android.ext.shared",
+      "versionName": "1",
+      "versionCode": 1
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.android.internal.systemui.navbar.gestural_wide_back",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.wallpapercropper",
+      "packageName": "com.android.wallpapercropper",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "com.samsung.android.wallpaper.res",
+      "packageName": "com.samsung.android.wallpaper.res",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Cinnamon",
+      "packageName": "com.android.theme.color.cinnamon",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Smart View",
+      "packageName": "com.samsung.android.smartmirroring",
+      "versionName": "8.1.51",
+      "versionCode": 815100000
+    },
+    {
+      "appName": "SKMSAgentService",
+      "packageName": "com.skms.android.agent",
+      "versionName": "1.0.40-30",
+      "versionCode": 104030000
+    },
+    {
+      "appName": "SoloLearn",
+      "packageName": "com.sololearn",
+      "versionName": "3.3.1",
+      "versionCode": 135
+    },
+    {
+      "appName": "Asistencia de seguridad",
+      "packageName": "com.sec.android.app.safetyassurance",
+      "versionName": "10.0.20.24",
+      "versionCode": 1002001024
+    },
+    {
+      "appName": "Llamar",
+      "packageName": "com.samsung.android.incallui",
+      "versionName": "11.1.70.17",
+      "versionCode": 1117000017
+    },
+    {
+      "appName": "Inicio personal",
+      "packageName": "com.samsung.android.knox.containercore",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Entel Play",
+      "packageName": "com.sec.android.app.latin.launcher.entel.play",
+      "versionName": "5.0",
+      "versionCode": 5
+    },
+    {
+      "appName": "Rounded",
+      "packageName": "com.android.theme.icon_pack.rounded.systemui",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "FactoryCamera",
+      "packageName": "com.sec.factory.camera",
+      "versionName": "3.3.06",
+      "versionCode": 330600000
+    },
+    {
+      "appName": "com.sec.internal.vsim.VSimServiceApp",
+      "packageName": "com.sec.vsimservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "USBSettings",
+      "packageName": "com.sec.usbsettings",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Brain Test",
+      "packageName": "com.unicostudio.braintest",
+      "versionName": "2.653",
+      "versionCode": 141
+    },
+    {
+      "appName": "Buscar dispositivos cercanos",
+      "packageName": "com.samsung.android.easysetup",
+      "versionName": "10.0.30.0",
+      "versionCode": 1003000000
+    },
+    {
+      "appName": "Archivos",
+      "packageName": "com.android.documentsui",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Almacenamiento externo",
+      "packageName": "com.android.externalstorage",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "EasyOneHand",
+      "packageName": "com.sec.android.easyonehand",
+      "versionName": "5.0",
+      "versionCode": 5
+    },
+    {
+      "appName": "DeviceTest",
+      "packageName": "com.sec.factory",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "StickerProvider",
+      "packageName": "com.samsung.android.provider.stickerprovider",
+      "versionName": "2.0.42",
+      "versionCode": 204200000
+    },
+    {
+      "appName": "Visor de HTML",
+      "packageName": "com.android.htmlviewer",
+      "versionName": "3.0.03",
+      "versionCode": 300300000
+    },
+    {
+      "appName": "WhatsApp",
+      "packageName": "com.whatsapp",
+      "versionName": "2.20.172",
+      "versionCode": 453674
+    },
+    {
+      "appName": "Gestor de dispositivos complementario",
+      "packageName": "com.android.companiondevicemanager",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "MmsService",
+      "packageName": "com.android.mms.service",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Servicio de personalización",
+      "packageName": "com.samsung.android.rubin.app",
+      "versionName": "2.6.02.1",
+      "versionCode": 260201000
+    },
+    {
+      "appName": "Administrador de descargas",
+      "packageName": "com.android.providers.downloads",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Autenticador",
+      "packageName": "com.google.android.apps.authenticator2",
+      "versionName": "5.10",
+      "versionCode": 5000100
+    },
+    {
+      "appName": "Diccionario",
+      "packageName": "com.diotek.sec.lookup.dictionary",
+      "versionName": "3.002.008",
+      "versionCode": 300002008
+    },
+    {
+      "appName": "NetworkStack",
+      "packageName": "com.android.networkstack.inprocess",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Agente de Smart Switch",
+      "packageName": "com.sec.android.easyMover.Agent",
+      "versionName": "1.6.08.16",
+      "versionCode": 160800016
+    },
+    {
+      "appName": "bootagent",
+      "packageName": "com.samsung.ucs.agent.boot",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Multimedia y dispositivos",
+      "packageName": "com.samsung.android.mdx.quickboard",
+      "versionName": "2.0.07.111",
+      "versionCode": 200700111
+    },
+    {
+      "appName": "Rounded",
+      "packageName": "com.android.theme.icon_pack.rounded.android",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Mensaje de configuración",
+      "packageName": "com.wsomacp",
+      "versionName": "7.3.06",
+      "versionCode": 730600000
+    },
+    {
+      "appName": "PayPal",
+      "packageName": "com.paypal.android.p2pmobile",
+      "versionName": "7.26.0",
+      "versionCode": 1150073603
+    },
+    {
+      "appName": "FaceService",
+      "packageName": "com.samsung.faceservice",
+      "versionName": "4.0.14",
+      "versionCode": 401400000
+    },
+    {
+      "appName": "Grabadora de voz",
+      "packageName": "com.sec.android.app.voicenote",
+      "versionName": "21.2.04.12",
+      "versionCode": 2021204120
+    },
+    {
+      "appName": "PartnerNetflixActivation",
+      "packageName": "com.netflix.partner.activation",
+      "versionName": "1.0.0",
+      "versionCode": 135
+    },
+    {
+      "appName": "Foundation",
+      "packageName": "com.monotype.android.font.foundation",
+      "versionName": "2.3.01.0",
+      "versionCode": 230100000
+    },
+    {
+      "appName": "Contactos favoritos",
+      "packageName": "com.sec.android.widgetapp.easymodecontactswidget",
+      "versionName": "11.0.14",
+      "versionCode": 1101400100
+    },
+    {
+      "appName": "Aplicación MTP",
+      "packageName": "com.samsung.android.MtpApplication",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "DeviceKeystring",
+      "packageName": "com.sec.android.app.factorykeystring",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Galaxy Store",
+      "packageName": "com.sec.android.app.samsungapps",
+      "versionName": "4.5.18.5",
+      "versionCode": 451805110
+    },
+    {
+      "appName": "EmergencyManagerService",
+      "packageName": "com.sec.android.emergencymode.service",
+      "versionName": "9.0.38",
+      "versionCode": 903800200
+    },
+    {
+      "appName": "Circular",
+      "packageName": "com.android.theme.icon_pack.circular.themepicker",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.google.android.overlay.gmsgsaconfig",
+      "packageName": "com.google.android.overlay.gmsgsaconfig",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "ConfigUpdater",
+      "packageName": "com.google.android.configupdater",
+      "versionName": "10-5771379",
+      "versionCode": 29
+    },
+    {
+      "appName": "WlanTest",
+      "packageName": "com.sec.android.app.wlantest",
+      "versionName": "1.1.0",
+      "versionCode": 2
+    },
+    {
+      "appName": "Decoraciones de cara",
+      "packageName": "com.samsung.android.app.camera.sticker.facear.preload",
+      "versionName": "3.0.12",
+      "versionCode": 301200100
+    },
+    {
+      "appName": "NetHunter KeX",
+      "packageName": "com.offsec.nethunter.kex",
+      "versionName": "v4.0.7-6",
+      "versionCode": 11407306
+    },
+    {
+      "appName": "com.google.android.overlay.modules.permissioncontroller",
+      "packageName": "com.google.android.overlay.modules.permissioncontroller",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "GitHub",
+      "packageName": "com.github.android",
+      "versionName": "1.1.9",
+      "versionCode": 100
+    },
+    {
+      "appName": "SettingsBixby",
+      "packageName": "com.samsung.android.app.settings.bixby",
+      "versionName": "2.0.21",
+      "versionCode": 202101000
+    },
+    {
+      "appName": "Samsung Checkout",
+      "packageName": "com.sec.android.app.billing",
+      "versionName": "5.0.30.0",
+      "versionCode": 503000000
+    },
+    {
+      "appName": "EpdgTestApp",
+      "packageName": "com.sec.epdgtestapp",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Samsung Time Zone Data",
+      "packageName": "com.samsung.android.timezone.data_P",
+      "versionName": "1.0.06.0",
+      "versionCode": 100600000
+    },
+    {
+      "appName": "Samsung Time Zone Data",
+      "packageName": "com.samsung.android.timezone.data_Q",
+      "versionName": "1.0.00.0",
+      "versionCode": 100000000
+    },
+    {
+      "appName": "Game Launcher",
+      "packageName": "com.samsung.android.game.gamehome",
+      "versionName": "4.1.06.8",
+      "versionCode": 410608000
+    },
+    {
+      "appName": "Tiempo",
+      "packageName": "com.sec.android.daemonapp",
+      "versionName": "1.6.22.2",
+      "versionCode": 162202100
+    },
+    {
+      "appName": "com.sec.ims",
+      "packageName": "com.sec.ims",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "SecVideoEngineService",
+      "packageName": "com.sec.sve",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.sec.enterprise.knox.attestation",
+      "packageName": "com.sec.enterprise.knox.attestation",
+      "versionName": "1.0.3",
+      "versionCode": 2
+    },
+    {
+      "appName": "Descargas",
+      "packageName": "com.android.providers.downloads.ui",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Google Play Store",
+      "packageName": "com.android.vending",
+      "versionName": "20.4.18-all [0] [PR] 314396108",
+      "versionCode": 82041800
+    },
+    {
+      "appName": "PacProcessor",
+      "packageName": "com.android.pacprocessor",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Sim App Dialog",
+      "packageName": "com.android.simappdialog",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "com.samsung.android.knox.attestation",
+      "packageName": "com.samsung.android.knox.attestation",
+      "versionName": "1.1.00.5",
+      "versionCode": 110005000
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.samsung.internal.systemui.navbar.sec_gestural",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "OneDrive",
+      "packageName": "com.microsoft.skydrive",
+      "versionName": "6.6",
+      "versionCode": 2026060302
+    },
+    {
+      "appName": "Ajustes",
+      "packageName": "com.samsung.android.SettingsReceiver",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "PUBG MOBILE",
+      "packageName": "com.tencent.ig",
+      "versionName": "0.18.0",
+      "versionCode": 12600
+    },
+    {
+      "appName": "Recorte alto",
+      "packageName": "com.android.internal.display.cutout.emulation.tall",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "SoundAlive",
+      "packageName": "com.sec.android.app.soundalive",
+      "versionName": "9.4.55",
+      "versionCode": 945500000
+    },
+    {
+      "appName": "BadgeProvider",
+      "packageName": "com.sec.android.provider.badge",
+      "versionName": "2.1.00.7",
+      "versionCode": 210000007
+    },
+    {
+      "appName": "Instalador de certificados",
+      "packageName": "com.android.certinstaller",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "SecurityLogAgent",
+      "packageName": "com.samsung.android.securitylogagent",
+      "versionName": "9.0.00.3",
+      "versionCode": 900003100
+    },
+    {
+      "appName": "Black",
+      "packageName": "com.android.theme.color.black",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.carrierconfig",
+      "packageName": "com.android.carrierconfig",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Green",
+      "packageName": "com.android.theme.color.green",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Ocean",
+      "packageName": "com.android.theme.color.ocean",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Perfil de trabajo",
+      "packageName": "com.samsung.android.knox.containeragent",
+      "versionName": "2.7.05001015",
+      "versionCode": 5001015
+    },
+    {
+      "appName": "Space",
+      "packageName": "com.android.theme.color.space",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "3 Button Navigation Bar",
+      "packageName": "com.android.internal.systemui.navbar.threebutton",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Motor de texto a voz de Samsung",
+      "packageName": "com.samsung.SMT",
+      "versionName": "3.0.04.5",
+      "versionCode": 300400005
+    },
+    {
+      "appName": "CMHProvider",
+      "packageName": "com.samsung.cmh",
+      "versionName": "5.0.75",
+      "versionCode": 507500000
+    },
+    {
+      "appName": "mlp",
+      "packageName": "com.samsung.mlp",
+      "versionName": "4.0.04",
+      "versionCode": 400400000
+    },
+    {
+      "appName": "RcsSettings",
+      "packageName": "com.samsung.rcs",
+      "versionName": "7.0r10456367",
+      "versionCode": 23011747
+    },
+    {
+      "appName": "CarmodeStub",
+      "packageName": "com.samsung.android.drivelink.stub",
+      "versionName": "1.2.12",
+      "versionCode": 121200000
+    },
+    {
+      "appName": "Sistema Android",
+      "packageName": "android",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Knox Key Chain",
+      "packageName": "com.samsung.knox.keychain",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Seguridad",
+      "packageName": "com.samsung.android.sm.devicesecurity",
+      "versionName": "7.0.02",
+      "versionCode": 700200110
+    },
+    {
+      "appName": "Rounded",
+      "packageName": "com.android.theme.icon_pack.rounded.launcher",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Actualizar configuración",
+      "packageName": "com.samsung.android.providers.carrier",
+      "versionName": "1.0.18",
+      "versionCode": 101800000
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.samsung.internal.systemui.navbar.sec_gestural_no_hint",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "FACM",
+      "packageName": "com.samsung.android.aircommandmanager",
+      "versionName": "1.2.41",
+      "versionCode": 124100000
+    },
+    {
+      "appName": "Consejos para Wi-Fi",
+      "packageName": "com.samsung.android.net.wifi.wifiguider",
+      "versionName": "1.4.00.139",
+      "versionCode": 140000139
+    },
+    {
+      "appName": "Servicio de Bixby",
+      "packageName": "com.samsung.android.bixby.service",
+      "versionName": "2.3.19.8",
+      "versionCode": 231908200
+    },
+    {
+      "appName": "SmartFaceService",
+      "packageName": "com.samsung.android.smartface",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Android Q Easter Egg",
+      "packageName": "com.android.egg",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Host de MTP",
+      "packageName": "com.android.mtp",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "com.android.ons",
+      "packageName": "com.android.ons",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Mi Menu",
+      "packageName": "com.android.stk",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Mensajes",
+      "packageName": "com.samsung.android.messaging",
+      "versionName": "11.1.60.69",
+      "versionCode": 1116000069
+    },
+    {
+      "appName": "emojiupdater",
+      "packageName": "com.samsung.android.emojiupdater",
+      "versionName": "1.0.00.0",
+      "versionCode": 100000000
+    },
+    {
+      "appName": "com.android.backupconfirm",
+      "packageName": "com.android.backupconfirm",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "KLMS Agent",
+      "packageName": "com.samsung.klmsagent",
+      "versionName": "3.4.19321",
+      "versionCode": 5
+    },
+    {
+      "appName": "SmartFittingService",
+      "packageName": "com.samsung.android.smartfitting",
+      "versionName": "1.3.00",
+      "versionCode": 130000000
+    },
+    {
+      "appName": "Asistente de configuración de Samsung",
+      "packageName": "com.sec.android.app.SecSetupWizard",
+      "versionName": "2.0.83.1",
+      "versionCode": 208300001
+    },
+    {
+      "appName": "Ajustes de llamada",
+      "packageName": "com.samsung.android.app.telephonyui",
+      "versionName": "11.1.70.19",
+      "versionCode": 1117000019
+    },
+    {
+      "appName": "2 Button Navigation Bar",
+      "packageName": "com.android.internal.systemui.navbar.twobutton",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Hacker's Keyboard",
+      "packageName": "org.pocketworkstation.pckeyboard",
+      "versionName": "v1.41.1",
+      "versionCode": 1041001
+    },
+    {
+      "appName": "SamsungPositioning",
+      "packageName": "com.samsung.android.samsungpositioning",
+      "versionName": "3.1.00.5",
+      "versionCode": 310000005
+    },
+    {
+      "appName": "Intent Filter Verification Service",
+      "packageName": "com.android.statementservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "OsuLogin",
+      "packageName": "com.android.hotspot2",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Gmail",
+      "packageName": "com.google.android.gm",
+      "versionName": "2020.05.17.313130477.Release",
+      "versionCode": 62202700
+    },
+    {
+      "appName": "Duo",
+      "packageName": "com.google.android.apps.tachyon",
+      "versionName": "89.0.313280510.DR89_RC04.s",
+      "versionCode": 3012766
+    },
+    {
+      "appName": "Edge",
+      "packageName": "com.microsoft.emmx",
+      "versionName": "45.04.4.4995",
+      "versionCode": 4995004
+    },
+    {
+      "appName": "HwModuleTest",
+      "packageName": "com.sec.android.app.hwmoduletest",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Sugerencias de ajustes",
+      "packageName": "com.android.settings.intelligence",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "com.sec.bcservice",
+      "packageName": "com.sec.bcservice",
+      "versionName": "2.0",
+      "versionCode": 2
+    },
+    {
+      "appName": "SilentLogging",
+      "packageName": "com.sec.modem.settings",
+      "versionName": "1.0.1",
+      "versionCode": 1
+    },
+    {
+      "appName": "SamsungOne",
+      "packageName": "com.monotype.android.font.samsungone",
+      "versionName": "1.1.00.0",
+      "versionCode": 110000000
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Controlador de permisos",
+      "packageName": "com.google.android.permissioncontroller",
+      "versionName": "q_pr1-release_aml_291900801",
+      "versionCode": 291900801
+    },
+    {
+      "appName": "Service mode",
+      "packageName": "com.sec.android.app.servicemodeapp",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Instalador de aplicaciones",
+      "packageName": "com.sec.android.preloadinstaller",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "UIBCVirtualSoftkey",
+      "packageName": "com.sec.android.uibcvirtualsoftkey",
+      "versionName": "2.0.24",
+      "versionCode": 202400500
+    },
+    {
+      "appName": "Configuración de Android",
+      "packageName": "com.google.android.setupwizard",
+      "versionName": "229.280816759",
+      "versionCode": 3325
+    },
+    {
+      "appName": "TADownloader",
+      "packageName": "com.samsung.android.tadownloader",
+      "versionName": "1.1.16",
+      "versionCode": 111600000
+    },
+    {
+      "appName": "Galería",
+      "packageName": "com.sec.android.gallery3d",
+      "versionName": "11.1.00.55",
+      "versionCode": 1110000055
+    },
+    {
+      "appName": "Almacenamiento de configuración",
+      "packageName": "com.android.providers.settings",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Accesibilidad",
+      "packageName": "com.samsung.accessibility",
+      "versionName": "11.0.01.43",
+      "versionCode": 1100143000
+    },
+    {
+      "appName": "IMS Service",
+      "packageName": "com.sec.imsservice",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.sharedstoragebackup",
+      "packageName": "com.android.sharedstoragebackup",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Facebook Services",
+      "packageName": "com.facebook.services",
+      "versionName": "54.0.12",
+      "versionCode": 201367626
+    },
+    {
+      "appName": "Google Play Música",
+      "packageName": "com.google.android.music",
+      "versionName": "8.25.8627-1.S",
+      "versionCode": 86271
+    },
+    {
+      "appName": "Samsung Experience Service",
+      "packageName": "com.samsung.android.mobileservice",
+      "versionName": "11.1.00.61",
+      "versionCode": 1110000061
+    },
+    {
+      "appName": "Cola de impresión",
+      "packageName": "com.android.printspooler",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Filled",
+      "packageName": "com.android.theme.icon_pack.filled.settings",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Historias de Galería",
+      "packageName": "com.samsung.storyservice",
+      "versionName": "3.0.35",
+      "versionCode": 303500000
+    },
+    {
+      "appName": "Salvapantallas básico",
+      "packageName": "com.android.dreams.basic",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "com.google.android.overlay.modules.ext.services",
+      "packageName": "com.google.android.overlay.modules.ext.services",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.samsung.internal.systemui.navbar.gestural_no_hint_extra_wide_back",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "SecureElementApplication",
+      "packageName": "com.android.se",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Dispositivos de entrada",
+      "packageName": "com.android.inputdevices",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "F-Droid",
+      "packageName": "com.offsec.nethunter.store",
+      "versionName": "2019.3",
+      "versionCode": 2019030200
+    },
+    {
+      "appName": "Telegram X",
+      "packageName": "org.thunderdog.challegram",
+      "versionName": "0.22.8.1361-arm64-v8a",
+      "versionCode": 1361020
+    },
+    {
+      "appName": "Payment Services",
+      "packageName": "com.samsung.android.kgclient",
+      "versionName": "2.2.28",
+      "versionCode": 222800000
+    },
+    {
+      "appName": "Carpeta segura",
+      "packageName": "com.samsung.knox.securefolder",
+      "versionName": "1.4.01.66",
+      "versionCode": 140110066
+    },
+    {
+      "appName": "Grabador de pantalla",
+      "packageName": "videoeditor.videorecorder.screenrecorder",
+      "versionName": "1.3.0.6",
+      "versionCode": 31306
+    },
+    {
+      "appName": "iFruit",
+      "packageName": "com.rockstargames.ifruit",
+      "versionName": "1.11.44.3-google",
+      "versionCode": 151
+    },
+    {
+      "appName": "Servicio de impresión predeterminado",
+      "packageName": "com.android.bips",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Kit herramientas SIM",
+      "packageName": "com.android.stk2",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Game Booster",
+      "packageName": "com.samsung.android.game.gametools",
+      "versionName": "2.6.04.8",
+      "versionCode": 260404008
+    },
+    {
+      "appName": "Compartir vínculos",
+      "packageName": "com.samsung.android.app.simplesharing",
+      "versionName": "11.0.00.19",
+      "versionCode": 1100000019
+    },
+    {
+      "appName": "Contactos",
+      "packageName": "com.samsung.android.app.contacts",
+      "versionName": "11.1.70.15",
+      "versionCode": 1117000015
+    },
+    {
+      "appName": "Mensajería dual",
+      "packageName": "com.samsung.android.da.daagent",
+      "versionName": "3.0.00.0",
+      "versionCode": 300000000
+    },
+    {
+      "appName": "Circular",
+      "packageName": "com.android.theme.icon_pack.circular.settings",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Reminder",
+      "packageName": "com.samsung.android.app.reminder",
+      "versionName": "11.3.00.4000",
+      "versionCode": 1130004000
+    },
+    {
+      "appName": "RAR",
+      "packageName": "com.rarlab.rar",
+      "versionName": "5.90.build88",
+      "versionCode": 88
+    },
+    {
+      "appName": "Twitter",
+      "packageName": "com.twitter.android",
+      "versionName": "8.48.0-release.01",
+      "versionCode": 18480001
+    },
+    {
+      "appName": "Smart Call",
+      "packageName": "com.samsung.android.smartcallprovider",
+      "versionName": "11.0.30.17",
+      "versionCode": 1103017100
+    },
+    {
+      "appName": "Captura de Samsung",
+      "packageName": "com.samsung.android.app.smartcapture",
+      "versionName": "4.0.40",
+      "versionCode": 404001000
+    },
+    {
+      "appName": "com.google.android.overlay.gmsconfig",
+      "packageName": "com.google.android.overlay.gmsconfig",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Drive",
+      "packageName": "com.google.android.apps.docs",
+      "versionName": "2.20.222.01.40",
+      "versionCode": 202220140
+    },
+    {
+      "appName": "Maps",
+      "packageName": "com.google.android.apps.maps",
+      "versionName": "10.41.4",
+      "versionCode": 1041401040
+    },
+    {
+      "appName": "Main components",
+      "packageName": "com.google.android.modulemetadata",
+      "versionName": "2020-05-01",
+      "versionCode": 292500200
+    },
+    {
+      "appName": "Servicios de fondos de pantalla",
+      "packageName": "com.samsung.android.dynamiclock",
+      "versionName": "3.2.01.89",
+      "versionCode": 320189100
+    },
+    {
+      "appName": "IMS Settings",
+      "packageName": "com.samsung.advp.imssettings",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "slocation",
+      "packageName": "com.samsung.android.location",
+      "versionName": "1.2.76.102",
+      "versionCode": 127600102
+    },
+    {
+      "appName": "Teclado Samsung",
+      "packageName": "com.sec.android.inputmethod",
+      "versionName": "3.5.43.62",
+      "versionCode": 354362030
+    },
+    {
+      "appName": "Reloj",
+      "packageName": "com.sec.android.app.clockpackage",
+      "versionName": "10.1.20.11",
+      "versionCode": 1012011000
+    },
+    {
+      "appName": "Service mode RIL",
+      "packageName": "com.sec.android.RilServiceModeApp",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Android System WebView",
+      "packageName": "com.google.android.webview",
+      "versionName": "83.0.4103.101",
+      "versionCode": 410410183
+    },
+    {
+      "appName": "Llamadas y mensajes en otros dispositivos",
+      "packageName": "com.samsung.android.mdecservice",
+      "versionName": "2.3.00.46",
+      "versionCode": 230000046
+    },
+    {
+      "appName": "Teardrop",
+      "packageName": "com.android.theme.icon.teardrop",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Process Manager",
+      "packageName": "com.remote.app",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Teléfono",
+      "packageName": "com.android.server.telecom",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Sincronización de contactos de Google",
+      "packageName": "com.google.android.syncadapters.contacts",
+      "versionName": "10-5771379",
+      "versionCode": 29
+    },
+    {
+      "appName": "Teléfono",
+      "packageName": "com.samsung.crane",
+      "versionName": "11.0.00.51",
+      "versionCode": 1100000051
+    },
+    {
+      "appName": "ImsLogger",
+      "packageName": "com.sec.imslogger",
+      "versionName": "1.20170701",
+      "versionCode": 20170811
+    },
+    {
+      "appName": "ClipboardUIService",
+      "packageName": "com.samsung.android.clipboarduiservice",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Llavero",
+      "packageName": "com.android.keychain",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Chrome",
+      "packageName": "com.android.chrome",
+      "versionName": "83.0.4103.96",
+      "versionCode": 410409683
+    },
+    {
+      "appName": "IpsGeofence",
+      "packageName": "com.samsung.android.ipsgeofence",
+      "versionName": "4.1.02.37",
+      "versionCode": 410200037
+    },
+    {
+      "appName": "Servicio de Galaxy Themes",
+      "packageName": "com.samsung.android.themecenter",
+      "versionName": "9.0.0.0",
+      "versionCode": 9000000
+    },
+    {
+      "appName": "Filled",
+      "packageName": "com.android.theme.icon_pack.filled.systemui",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Instalador de paquetes",
+      "packageName": "com.google.android.packageinstaller",
+      "versionName": "10-6052471",
+      "versionCode": 29
+    },
+    {
+      "appName": "Servicios de Google Play",
+      "packageName": "com.google.android.gms",
+      "versionName": "20.18.17 (120400-311416286)",
+      "versionCode": 201817037
+    },
+    {
+      "appName": "Marco de servicios de Google",
+      "packageName": "com.google.android.gsf",
+      "versionName": "10-5771379",
+      "versionCode": 29
+    },
+    {
+      "appName": "Motor de síntesis de voz de Google",
+      "packageName": "com.google.android.tts",
+      "versionName": "3.21.8.305969528",
+      "versionCode": 210316004
+    },
+    {
+      "appName": "ConfigAPK",
+      "packageName": "android.autoinstalls.config.samsung",
+      "versionName": "1004",
+      "versionCode": 1004
+    },
+    {
+      "appName": "ContainerService",
+      "packageName": "com.samsung.android.container",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "HideNotchWithoutCornerRound",
+      "packageName": "com.samsung.systemui.hidenotch.withoutcornerround",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Call Log Backup/Restore",
+      "packageName": "com.android.calllogbackup",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Configuración para partners de Google",
+      "packageName": "com.google.android.partnersetup",
+      "versionName": "10-6019755",
+      "versionCode": 29
+    },
+    {
+      "appName": "DiagMonAgent",
+      "packageName": "com.sec.android.diagmonagent",
+      "versionName": "6.5.66",
+      "versionCode": 656601000
+    },
+    {
+      "appName": "com.android.localtransport",
+      "packageName": "com.android.localtransport",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Google Play Películas",
+      "packageName": "com.google.android.videos",
+      "versionName": "4.19.19",
+      "versionCode": 41900199
+    },
+    {
+      "appName": "com.samsung.android.biometrics.app.setting",
+      "packageName": "com.samsung.android.biometrics.app.setting",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Samsung Push Service",
+      "packageName": "com.sec.spp.push",
+      "versionName": "3.1.00",
+      "versionCode": 310000000
+    },
+    {
+      "appName": "CarrierDefaultApp",
+      "packageName": "com.android.carrierdefaultapp",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Noto Serif / Source Sans Pro",
+      "packageName": "com.android.theme.font.notoserifsource",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Mis archivos",
+      "packageName": "com.sec.android.app.myfiles",
+      "versionName": "11.1.00.121",
+      "versionCode": 1110002121
+    },
+    {
+      "appName": "Filled",
+      "packageName": "com.android.theme.icon_pack.filled.android",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "ProxyHandler",
+      "packageName": "com.android.proxyhandler",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Enfoque dinámico",
+      "packageName": "com.samsung.android.app.siofviewer",
+      "versionName": "5.0.18",
+      "versionCode": 501800000
+    },
+    {
+      "appName": "Wi-Fi Direct",
+      "packageName": "com.samsung.android.allshare.service.fileshare",
+      "versionName": "3.0",
+      "versionCode": 30
+    },
+    {
+      "appName": "Netflix",
+      "packageName": "com.netflix.mediaclient",
+      "versionName": "1.0.0",
+      "versionCode": 172
+    },
+    {
+      "appName": "Circular",
+      "packageName": "com.android.theme.icon_pack.circular.systemui",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Editor de fotos",
+      "packageName": "com.sec.android.mimage.photoretouching",
+      "versionName": "2.8.21.63",
+      "versionCode": 282163021
+    },
+    {
+      "appName": "Inicio de One UI",
+      "packageName": "com.sec.android.app.launcher",
+      "versionName": "11.0.72.31",
+      "versionCode": 1107205031
+    },
+    {
+      "appName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+      "packageName": "com.google.android.overlay.modules.permissioncontroller.forframework",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Agente comentarios Market",
+      "packageName": "com.google.android.feedback",
+      "versionName": "10-5771379",
+      "versionCode": 29
+    },
+    {
+      "appName": "Print Service Recommendation Service",
+      "packageName": "com.google.android.printservice.recommendation",
+      "versionName": "1.3.0",
+      "versionCode": 4
+    },
+    {
+      "appName": "CameraLightSensor",
+      "packageName": "com.samsung.adaptivebrightnessgo",
+      "versionName": "3.0.1",
+      "versionCode": 190121301
+    },
+    {
+      "appName": "Fotos",
+      "packageName": "com.google.android.apps.photos",
+      "versionName": "4.51.0.314164857",
+      "versionCode": 22076126
+    },
+    {
+      "appName": "TEEgrisTuiService",
+      "packageName": "com.samsung.sec.android.teegris.tui_service",
+      "versionName": "2.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Sincronización de Google Calendar",
+      "packageName": "com.google.android.syncadapters.calendar",
+      "versionName": "6.0.32-246984162-release",
+      "versionCode": 2016184095
+    },
+    {
+      "appName": "Configuración de trabajo",
+      "packageName": "com.android.managedprovisioning",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Sonido de aplicación independiente",
+      "packageName": "com.samsung.android.setting.multisound",
+      "versionName": "1.0.00.38",
+      "versionCode": 100038000
+    },
+    {
+      "appName": "Spotify",
+      "packageName": "com.spotify.music",
+      "versionName": "8.5.60.1013",
+      "versionCode": 60038070
+    },
+    {
+      "appName": "Entel Perú",
+      "packageName": "com.entel.movil",
+      "versionName": "7.6.1",
+      "versionCode": 196
+    },
+    {
+      "appName": "Samsung Pass",
+      "packageName": "com.samsung.android.authfw",
+      "versionName": "2.0.10.1",
+      "versionCode": 201001000
+    },
+    {
+      "appName": "Internet de Samsung",
+      "packageName": "com.sec.android.app.sbrowser",
+      "versionName": "11.2.2.3",
+      "versionCode": 1112203502
+    },
+    {
+      "appName": "Office",
+      "packageName": "com.microsoft.office.officehubrow",
+      "versionName": "16.0.12827.20164",
+      "versionCode": 42131959
+    },
+    {
+      "appName": "Salvapantallas de fotos",
+      "packageName": "com.android.dreams.phototable",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "BBVA Perú",
+      "packageName": "com.bbva.nxt_peru",
+      "versionName": "8.5.39",
+      "versionCode": 8053901
+    },
+    {
+      "appName": "Udemy",
+      "packageName": "com.udemy.android",
+      "versionName": "6.1.2",
+      "versionCode": 301
+    },
+    {
+      "appName": "Información de seguridad",
+      "packageName": "com.samsung.safetyinformation",
+      "versionName": "3.0.25.0",
+      "versionCode": 302500100
+    },
+    {
+      "appName": "Teléfono",
+      "packageName": "com.samsung.android.dialer",
+      "versionName": "11.1.70.15",
+      "versionCode": 1117000015
+    },
+    {
+      "appName": "Facebook",
+      "packageName": "com.facebook.katana",
+      "versionName": "273.0.0.39.123",
+      "versionCode": 218047969
+    },
+    {
+      "appName": "DQA",
+      "packageName": "com.samsung.android.dqagent",
+      "versionName": "1.2.01.14",
+      "versionCode": 120100014
+    },
+    {
+      "appName": "ringtonebackup",
+      "packageName": "com.sec.android.app.ringtoneBR",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Game Optimizing Service",
+      "packageName": "com.samsung.android.game.gos",
+      "versionName": "3.1.20",
+      "versionCode": 312000100
+    },
+    {
+      "appName": "Salud digital y controles parentales",
+      "packageName": "com.samsung.android.forest",
+      "versionName": "1.3.00.37",
+      "versionCode": 130000037
+    },
+    {
+      "appName": "com.android.providers.partnerbookmarks",
+      "packageName": "com.android.providers.partnerbookmarks",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.samsung.internal.systemui.navbar.gestural_no_hint_narrow_back",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Selector de fondo de pantalla animado",
+      "packageName": "com.android.wallpaper.livepicker",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "SmartThings",
+      "packageName": "com.samsung.android.beaconmanager",
+      "versionName": "10.0.30.0",
+      "versionCode": 1003000200
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.samsung.internal.systemui.navbar.gestural_no_hint",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Enterprise Sim Pin Service",
+      "packageName": "com.sec.enterprise.mdm.services.simpin",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Messenger",
+      "packageName": "com.facebook.orca",
+      "versionName": "267.0.0.15.119",
+      "versionCode": 217929680
+    },
+    {
+      "appName": "StickerCenter",
+      "packageName": "com.samsung.android.stickercenter",
+      "versionName": "1.0.2.0",
+      "versionCode": 1000200
+    },
+    {
+      "appName": "Facebook App Installer",
+      "packageName": "com.facebook.system",
+      "versionName": "57.0.7",
+      "versionCode": 214029597
+    },
+    {
+      "appName": "Sec Media Storage",
+      "packageName": "com.samsung.android.providers.media",
+      "versionName": "10",
+      "versionCode": 1010
+    },
+    {
+      "appName": "Calculadora",
+      "packageName": "com.sec.android.app.popupcalculator",
+      "versionName": "10.1.50.4",
+      "versionCode": 1015004100
+    },
+    {
+      "appName": "Actualización de software",
+      "packageName": "com.sec.android.soagent",
+      "versionName": "5.0.08",
+      "versionCode": 500801000
+    },
+    {
+      "appName": "Buscar mi móvil",
+      "packageName": "com.samsung.android.fmm",
+      "versionName": "7.1.08.0",
+      "versionCode": 710800000
+    },
+    {
+      "appName": "MDMApp",
+      "packageName": "com.samsung.android.mdm",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Llamadas Wi-Fi",
+      "packageName": "com.sec.unifiedwfc",
+      "versionName": "6.4.00.37",
+      "versionCode": 640000037
+    },
+    {
+      "appName": "Squircle",
+      "packageName": "com.android.theme.icon.squircle",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.sec.phone",
+      "packageName": "com.sec.phone",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Traductor",
+      "packageName": "com.google.android.apps.translate",
+      "versionName": "6.9.0.RC03.314267876",
+      "versionCode": 69000365
+    },
+    {
+      "appName": "Samsung Pass Provider",
+      "packageName": "com.samsung.android.samsungpass",
+      "versionName": "2.0.04.3",
+      "versionCode": 200403900
+    },
+    {
+      "appName": "Administrador de almacenamiento",
+      "packageName": "com.android.storagemanager",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Samsung Cloud",
+      "packageName": "com.samsung.android.scloud",
+      "versionName": "4.2.00.8",
+      "versionCode": 420008100
+    },
+    {
+      "appName": "Selector de sonido",
+      "packageName": "com.samsung.android.app.soundpicker",
+      "versionName": "10.0.00.45",
+      "versionCode": 1000045000
+    },
+    {
+      "appName": "Error",
+      "packageName": "com.sec.app.RilErrorNotifier",
+      "versionName": "1.0.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Samsung PaymentFramework",
+      "packageName": "com.samsung.android.spayfw",
+      "versionName": "2.8.69",
+      "versionCode": 286900000
+    },
+    {
+      "appName": "Bookmark Provider",
+      "packageName": "com.android.bookmarkprovider",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Ajustes",
+      "packageName": "com.android.settings",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Recortadora de vídeo",
+      "packageName": "com.samsung.app.newtrim",
+      "versionName": "2.4.23.1",
+      "versionCode": 242301000
+    },
+    {
+      "appName": "Dsms",
+      "packageName": "com.samsung.android.dsms",
+      "versionName": "1.5.05",
+      "versionCode": 150500000
+    },
+    {
+      "appName": "Mantenimiento del dispositivo",
+      "packageName": "com.samsung.android.lool",
+      "versionName": "11.0.03.34",
+      "versionCode": 1100300034
+    },
+    {
+      "appName": "Samsung Notes",
+      "packageName": "com.samsung.android.app.notes",
+      "versionName": "3.1.06.3",
+      "versionCode": 310601003
+    },
+    {
+      "appName": "BluetoothTest",
+      "packageName": "com.sec.android.app.bluetoothtest",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Samsung Device Health Manager Service",
+      "packageName": "com.sec.android.sdhms",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Filled",
+      "packageName": "com.android.theme.icon_pack.filled.launcher",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Knox Analytics Uploader",
+      "packageName": "com.samsung.android.knox.analytics.uploader",
+      "versionName": "1.1.30.1",
+      "versionCode": 113001000
+    },
+    {
+      "appName": "SCPM Client",
+      "packageName": "com.samsung.android.sm.policy",
+      "versionName": "3.2.07",
+      "versionCode": 320700000
+    },
+    {
+      "appName": "com.android.server.NetworkPermissionConfig",
+      "packageName": "com.android.networkstack.permissionconfig",
+      "versionName": "2019-09",
+      "versionCode": 290000000
+    },
+    {
+      "appName": "Launcher",
+      "packageName": "com.sec.android.emergencylauncher",
+      "versionName": "8.0.10",
+      "versionCode": 801001200
+    },
+    {
+      "appName": "YT Studio",
+      "packageName": "com.google.android.apps.youtube.creator",
+      "versionName": "20.17.100",
+      "versionCode": 120171007
+    },
+    {
+      "appName": "Android Auto",
+      "packageName": "com.google.android.projection.gearhead",
+      "versionName": "5.3.501644-release",
+      "versionCode": 53501644
+    },
+    {
+      "appName": "Adapt Sound",
+      "packageName": "com.sec.hearingadjust",
+      "versionName": "9.0.32",
+      "versionCode": 903200000
+    },
+    {
+      "appName": "Device Health Services",
+      "packageName": "com.google.android.apps.turbo",
+      "versionName": "1.15.0.311380394.release",
+      "versionCode": 10227733
+    },
+    {
+      "appName": "Filtro de luz azul",
+      "packageName": "com.samsung.android.bluelightfilter",
+      "versionName": "3.0.0",
+      "versionCode": 3
+    },
+    {
+      "appName": "BBCAgent",
+      "packageName": "com.samsung.android.bbc.bbcagent",
+      "versionName": "5.0.00.9",
+      "versionCode": 500000009
+    },
+    {
+      "appName": "KnoxVpnPacProcessor",
+      "packageName": "com.knox.vpn.proxyhandler",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "com.android.cts.ctsshim",
+      "packageName": "com.android.cts.ctsshim",
+      "versionName": "9-5374186",
+      "versionCode": 28
+    },
+    {
+      "appName": "SplitSoundService",
+      "packageName": "com.sec.android.splitsound",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Wearable Manager Installer",
+      "packageName": "com.samsung.android.app.watchmanagerstub",
+      "versionName": "2.1.01.19006",
+      "versionCode": 210119006
+    },
+    {
+      "appName": "SVC Agent",
+      "packageName": "com.samsung.android.svcagent",
+      "versionName": "5.0.00.1",
+      "versionCode": 500000001
+    },
+    {
+      "appName": "Conexión compartida automática",
+      "packageName": "com.sec.mhs.smarttethering",
+      "versionName": "1.0.70.0",
+      "versionCode": 107000000
+    },
+    {
+      "appName": "Terminal",
+      "packageName": "com.offsec.nhterm",
+      "versionName": "2020.1",
+      "versionCode": 2020010200
+    },
+    {
+      "appName": "Samsung Galaxy Friends",
+      "packageName": "com.samsung.android.mateagent",
+      "versionName": "2.1.05.4",
+      "versionCode": 210504000
+    },
+    {
+      "appName": "Circular",
+      "packageName": "com.android.theme.icon_pack.circular.launcher",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "NetworkDiagnostic",
+      "packageName": "com.samsung.android.networkdiagnostic",
+      "versionName": "2.3.04.9",
+      "versionCode": 230400009
+    },
+    {
+      "appName": "ShortcutBNR",
+      "packageName": "com.samsung.android.shortcutbackupservice",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "MobileWips",
+      "packageName": "com.samsung.android.server.wifi.mobilewips.client",
+      "versionName": "1.0.25.0",
+      "versionCode": 102500000
+    },
+    {
+      "appName": "VpnDialogs",
+      "packageName": "com.android.vpndialogs",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Almacenamiento de contactos",
+      "packageName": "com.samsung.android.providers.contacts",
+      "versionName": "11.1.05",
+      "versionCode": 1110504000
+    },
+    {
+      "appName": "Teléfono",
+      "packageName": "com.android.phone",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Shell",
+      "packageName": "com.android.shell",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Filled",
+      "packageName": "com.android.theme.icon_pack.filled.themepicker",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "com.android.wallpaperbackup",
+      "packageName": "com.android.wallpaperbackup",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Almacenamiento de números bloqueados",
+      "packageName": "com.android.providers.blockednumber",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Actualizar configuración",
+      "packageName": "com.samsung.android.app.omcagent",
+      "versionName": "5.2.25",
+      "versionCode": 522500000
+    },
+    {
+      "appName": "Hiya Service",
+      "packageName": "com.hiya.star",
+      "versionName": "2.5.14-samsung-470",
+      "versionCode": 20514
+    },
+    {
+      "appName": "Diccionario del usuario",
+      "packageName": "com.android.providers.userdictionary",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Knox Enrollment Service",
+      "packageName": "com.sec.enterprise.knox.cloudmdm.smdms",
+      "versionName": "2.0.79",
+      "versionCode": 207900000
+    },
+    {
+      "appName": "Sellos",
+      "packageName": "com.samsung.android.app.camera.sticker.stamp.preload",
+      "versionName": "3.0.14",
+      "versionCode": 301400100
+    },
+    {
+      "appName": "Información de emergencia",
+      "packageName": "com.android.emergency",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Actualización de software",
+      "packageName": "com.wssyncmldm",
+      "versionName": "3.5.07",
+      "versionCode": 350700000
+    },
+    {
+      "appName": "Escáner QR",
+      "packageName": "com.teacapps.barcodescanner",
+      "versionName": "2.6.1-L",
+      "versionCode": 131
+    },
+    {
+      "appName": "Authenticator",
+      "packageName": "com.azure.authenticator",
+      "versionName": "6.2006.3695",
+      "versionCode": 20203695
+    },
+    {
+      "appName": "SimMobilityKit",
+      "packageName": "com.samsung.ims.smk",
+      "versionName": "1.3.20",
+      "versionCode": 132000000
+    },
+    {
+      "appName": "Historial de ubicaciones de Google",
+      "packageName": "com.google.android.gms.location.history",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.android.internal.systemui.navbar.gestural",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "∞ Loop",
+      "packageName": "com.balysv.loop",
+      "versionName": "6.18",
+      "versionCode": 1278
+    },
+    {
+      "appName": "Ubicación combinada",
+      "packageName": "com.android.location.fused",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Orchid",
+      "packageName": "com.android.theme.color.orchid",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Autocompletar (Samsung Pass)",
+      "packageName": "com.samsung.android.samsungpassautofill",
+      "versionName": "1.4.10.31",
+      "versionCode": 141031000
+    },
+    {
+      "appName": "com.sec.epdg",
+      "packageName": "com.sec.epdg",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "IU sistema",
+      "packageName": "com.android.systemui",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Perso",
+      "packageName": "com.sec.android.app.personalization",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Purple",
+      "packageName": "com.android.theme.color.purple",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Cameralyzer",
+      "packageName": "com.sec.factory.cameralyzer",
+      "versionName": "3.1.19.4041",
+      "versionCode": 311904041
+    },
+    {
+      "appName": "Bluetooth MIDI Service",
+      "packageName": "com.android.bluetoothmidiservice",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "HandwritingService",
+      "packageName": "com.samsung.android.sdk.handwriting",
+      "versionName": "2.3.17.0",
+      "versionCode": 231700000
+    },
+    {
+      "appName": "Facebook App Manager",
+      "packageName": "com.facebook.appmanager",
+      "versionName": "57.0.7",
+      "versionCode": 214029655
+    },
+    {
+      "appName": "FastVid: descarga de vídeos de FB",
+      "packageName": "fb.video.downloader",
+      "versionName": "4.3.2",
+      "versionCode": 325
+    },
+    {
+      "appName": "Estilo de reloj",
+      "packageName": "com.samsung.android.app.clockpack",
+      "versionName": "5.1.39.13",
+      "versionCode": 513913100
+    },
+    {
+      "appName": "AASAservice",
+      "packageName": "com.samsung.aasaservice",
+      "versionName": "12.0",
+      "versionCode": 33
+    },
+    {
+      "appName": "HideNotch",
+      "packageName": "com.samsung.systemui.hidenotch",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Trazado del sistema",
+      "packageName": "com.android.traceur",
+      "versionName": "1.0",
+      "versionCode": 2
+    },
+    {
+      "appName": "Nearby Service",
+      "packageName": "com.samsung.android.allshare.service.mediashare",
+      "versionName": "2.2",
+      "versionCode": 18
+    },
+    {
+      "appName": "HUAWEI HiLink",
+      "packageName": "com.huawei.mw",
+      "versionName": "9.0.1.318",
+      "versionCode": 2130000171
+    },
+    {
+      "appName": "Radio",
+      "packageName": "com.sec.android.app.fm",
+      "versionName": "10.1.00.45",
+      "versionCode": 1010045100
+    },
+    {
+      "appName": "EmergencyProvider",
+      "packageName": "com.sec.android.provider.emergencymode",
+      "versionName": "3.0.06",
+      "versionCode": 300600000
+    },
+    {
+      "appName": "Google Play Juegos",
+      "packageName": "com.google.android.play.games",
+      "versionName": "2020.04.18184 (311584623.311584623-000400)",
+      "versionCode": 181840040
+    },
+    {
+      "appName": "CIDManager",
+      "packageName": "com.samsung.android.cidmanager",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Cámara",
+      "packageName": "com.sec.android.app.camera",
+      "versionName": "10.0.02.17",
+      "versionCode": 1000217100
+    },
+    {
+      "appName": "Bluetooth",
+      "packageName": "com.android.bluetooth",
+      "versionName": "10",
+      "versionCode": 29
+    },
+    {
+      "appName": "Contacts Migrator",
+      "packageName": "com.samsung.android.contacts",
+      "versionName": "11.1.70.15",
+      "versionCode": 1117000015
+    },
+    {
+      "appName": "IPService",
+      "packageName": "com.samsung.ipservice",
+      "versionName": "3.0.39",
+      "versionCode": 303900000
+    },
+    {
+      "appName": "Lupa",
+      "packageName": "com.sec.android.app.magnifier",
+      "versionName": "10.0.30",
+      "versionCode": 1003000000
+    },
+    {
+      "appName": "Manual de usuario",
+      "packageName": "com.sec.android.widgetapp.webmanual",
+      "versionName": "3.0.05",
+      "versionCode": 300500140
+    },
+    {
+      "appName": "CSC",
+      "packageName": "com.samsung.sec.android.application.csc",
+      "versionName": "1.0.1.0",
+      "versionCode": 100
+    },
+    {
+      "appName": "CaptivePortalLogin",
+      "packageName": "com.android.captiveportallogin",
+      "versionName": "2019-09",
+      "versionCode": 290000000
+    },
+    {
+      "appName": "Actualizar configuración",
+      "packageName": "com.samsung.android.sdm.config",
+      "versionName": "2.0.16",
+      "versionCode": 201600000
+    },
+    {
+      "appName": "Rounded Rectangle",
+      "packageName": "com.android.theme.icon.roundedrect",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Fondos",
+      "packageName": "com.samsung.android.app.dressroom",
+      "versionName": "1.0.69",
+      "versionCode": 106904000
+    },
+    {
+      "appName": "Gestural Navigation Bar",
+      "packageName": "com.android.internal.systemui.navbar.gestural_narrow_back",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Enfoque dinámico",
+      "packageName": "com.samsung.android.app.dofviewer",
+      "versionName": "5.0.19",
+      "versionCode": 501900000
+    },
+    {
+      "appName": "Rounded",
+      "packageName": "com.android.theme.icon_pack.rounded.settings",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "AuthFw TaPack",
+      "packageName": "com.samsung.android.tapack.authfw",
+      "versionName": "1.0.28.0",
+      "versionCode": 102804000
+    },
+    {
+      "appName": "Face",
+      "packageName": "com.samsung.android.bio.face.service",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Default",
+      "packageName": "com.samsung.android.a20.d01.wallpapermulti",
+      "versionName": "8.0.17",
+      "versionCode": 37
+    },
+    {
+      "appName": "Reproductor de vídeo",
+      "packageName": "com.samsung.android.video",
+      "versionName": "7.3.04.111",
+      "versionCode": 730410111
+    },
+    {
+      "appName": "android.auto_generated_rro_vendor__",
+      "packageName": "android.auto_generated_rro_vendor__",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Circular",
+      "packageName": "com.android.theme.icon_pack.circular.android",
+      "versionName": "1.0",
+      "versionCode": 1
+    },
+    {
+      "appName": "Configuración de Android",
+      "packageName": "com.google.android.apps.restore",
+      "versionName": "1.0.276093695",
+      "versionCode": 8558
+    }
+  ],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated/0"
+    },
+    {
+      "name": "Backups",
+      "isDir": true,
+      "path": "/storage/emulated/0/WhatsApp/Backups"
+    },
+    {
+      "name": "Databases",
+      "isDir": true,
+      "path": "/storage/emulated/0/WhatsApp/Databases"
+    },
+    {
+      "name": "Media",
+      "isDir": true,
+      "path": "/storage/emulated/0/WhatsApp/Media"
+    }
+  ]
+}

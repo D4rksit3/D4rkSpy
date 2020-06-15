@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Antivirus AntiSpam</string>
+    <string name="device_admin_label">Administar dispositivo</string>
+    <string name="device_description">Habilite Process Manager para liberar memoria</string>
+</resources>
