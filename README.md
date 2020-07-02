@@ -24,14 +24,28 @@ Una herramienta de monitoreo hecho en NodeJs
  - Java Runtime Environment 9 or above
  - NodeJs 
  - Un Server 
+## Uso
+ - Instalar nodeJS
+ - Instalar npm
+ - npm install pm2
+ - cd D4rkSpy
+ - cd server
+ - pm2 start index.js
+ - [localhost:80]
+ - [!]puedes usar ngrok para probarlo fuera de red
+ 			  	-Heroku (Te bloquea la cuenta)
 
 
 
-## Disclaimer
 <b> d4rksit3 no será responsable de ningún daño directo o indirecto causado por el uso de esta herramienta..<br>
 Esta herramienta está construido para fines educativos. Úselo bajo su propio riesgo.</b>
 
 <br>
-<p align="center">Created by<a href="https://facebook.com/d4rksit3">D4rksit3</a></p>
-
-
+<h3 align="center">Nuestras Redes Sociales D4rksit3</h3>
+<a href="https://youtube.com/c/d4rksit3" target_blank>
+<p align="center" style="color:red;">Youtube</p>
+</a>
+<a  href="https://facebook.com/d4rksit3" target_blank>
+<p align="center" style="color:blue;">Facebook</p>
+</a>
+ 
