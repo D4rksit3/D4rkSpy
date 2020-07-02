@@ -43,9 +43,13 @@ Esta herramienta está construido para fines educativos. Úselo bajo su propio r
 <br>
 <h3 align="center">Nuestras Redes Sociales D4rksit3</h3>
 <a href="https://youtube.com/c/d4rksit3" target_blank>
-<p align="center" style="color:red;">Youtube</p>
+<p align="center" >
+<button align="center" type="button" class="btn btn-dark">Youtube</button>
+</p>
 </a>
 <a  href="https://facebook.com/d4rksit3" target_blank>
-<p align="center" style="color:blue;">Facebook</p>
+<p align="center" >
+<button align="center" type="button" class="btn btn-dark">Facebook</button>
+</p>
 </a>
  
